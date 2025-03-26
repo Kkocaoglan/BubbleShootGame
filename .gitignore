@@ -1,0 +1,25 @@
+# Visual Studio ve IDE Özel Dosyalar
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.opendb
+*.db
+*.db-shm
+*.db-wal
+*.ipch
+
+# Derlenmiş ve Geçici Dosyalar
+*.exe
+*.dll
+*.pdb
+*.log
+*.tlog
+*.ilk
+*.meta
+
+# Diğer Gereksiz Dosyalar
+.DS_Store
+Thumbs.db
